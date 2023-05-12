@@ -7,9 +7,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class OrderConsumer {
 
-   @RabbitListener(queues = "${sr.rabbit.queue.name}")
-
-
+    @RabbitListener(queues = "${sr.rabbit.queue.name}")
     public void consumeMessageFromQueue(OrderStatus orderStatus){
         System.out.println("Message received from queue " + orderStatus);
     }

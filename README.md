@@ -43,14 +43,27 @@
 ```
 7) After submission, click **connection** in the navigation bar to trace packets and then click **queue** to determine if it is empty
 ## Screenshots
-![Docker](./Screenshots/DockerCLI.png)
-![DockerCLI](./Screenshots/Docker.png)
-![Postman](./Screenshots/Postman.png)
-![rabbitmq](./Screenshots/RabbitMq1.png)
-![rabbitmq](./Screenshots/RabbitMq2.png)
-![rabbitmq](./Screenshots/RabbitMq3.png)
-![rabbitmq](./Screenshots/RabbitMq4.png)
-![rabbitmq](./Screenshots/RabbitMq5.png)
-![Springboot](./Screenshots/Springboot.png)
-![Springboot](./Screenshots/Springboot1.png)
+<detials>
+<summary>Click here to show the screenshots of project</summary>
+ <p> DockerCLI </p>
+ <img src ="Screenshots/DockerCLI.png">
+ <p> Docker </p>
+ <img src ="Screenshots/Docker.png">
+ <p> Postman </p>
+ <img src ="Screenshots/Postman.png">
+  <p> RabbitMq </p>
+ <img src ="Screenshots/RabbitMq1.png">
+  <p> RabbitMq </p>
+ <img src ="Screenshots/RabbitMq2.png">
+  <p> RabbitMq </p>
+ <img src ="Screenshots/RabbitMq3.png">
+  <p> RabbitMq </p>
+ <img src ="Screenshots/RabbitMq4.png">
+  <p> Springboot </p>
+ <img src ="Screenshots/RabbitMq5.png">
+  <p> Springboot </p>
+ <img src ="Screenshots/Springboot.png">
+  <p> Springboot </p>
+ <img src ="Screenshots/Springboot1.png">
+</details>
 

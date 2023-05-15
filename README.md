@@ -43,8 +43,9 @@
 ```
 7) After submission, click **connection** in the navigation bar to trace packets and then click **queue** to determine if it is empty
 ## Screenshots
-<detials>
+<details>
 <summary>Click here to show the screenshots of project</summary>
+ <br>
  <p> DockerCLI </p>
  <img src ="Screenshots/DockerCLI.png">
  <p> Docker </p>
